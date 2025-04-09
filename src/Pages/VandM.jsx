@@ -31,7 +31,7 @@ const VandM = () => {
       {/* Banner image */}
       <img
         src={aboutBanner}
-        alt="About Us Banner"
+        alt="AboutUsBanner"
         className="absolute top-0 left-0 w-full h-[350px] object-cover z-[-1]"
       />
       
